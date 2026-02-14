@@ -34,7 +34,7 @@
     transform: rotate(360deg);
   }
 }
-п
+
 .form {
   display: flex;
   justify-content: center;
@@ -107,7 +107,6 @@
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* Зображення */
 .gallery-image {
   display: block;
   width: 100%;
@@ -128,7 +127,6 @@
   align-items: center;
   font-size: 12px;
   line-height: 1.33;
-  /* 16px / 12px */
   letter-spacing: 0.04em;
   color: #2E2F42;
 }
